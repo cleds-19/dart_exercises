@@ -1,1 +1,7 @@
-
+--- CAFE RECEIPT ---
+Item Ordered: Oat Milk Latte
+Quantity: 5 cups
+Subtotal: $23.75
+Free Items Earned: 1 (2 extra stamps)
+Loyalty Discount Applied: true
+High Value Order Status: true
